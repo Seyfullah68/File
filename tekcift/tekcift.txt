@@ -1,0 +1,15 @@
+tek sayi :1
+cift sayi: 2
+tek sayi :3
+cift sayi: 4
+tek sayi :5
+cift sayi: 6
+tek sayi :7
+cift sayi: 8
+tek sayi :9
+cift sayi: 10
+tek sayi :11
+cift sayi: 12
+tek sayi :13
+cift sayi: 14
+tek sayi :15

@@ -1,0 +1,6 @@
+	ahmet bebe	mat	45  88  22  39.80
+
+	mehmet dede	turkce	899  78  23  209.20
+
+	leel looo	fizik	97  41  55  60.60
+
